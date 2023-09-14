@@ -29,6 +29,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Usage
+-completed live server link!
+https://jakobpfeifer135.github.io/02-Challenge/#online-reputation-management
 
 ![completed project](<assets/images/horiseon finished.png>)
 
