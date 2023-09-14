@@ -30,7 +30,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-![finished project challenge-02](<../assets/images/horiseon finished.png>)
+![completed project](<assets/images/horiseon finished.png>)
 
 ## Credits
 
